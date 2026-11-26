@@ -10,3 +10,9 @@ git config --global user.name
 git commit -m "changed user name and add a file"
 git pull 
 git push
+git status --short
+git status -s
+git show
+git log 
+.gitignore 
+
