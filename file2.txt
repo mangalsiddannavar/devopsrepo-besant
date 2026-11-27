@@ -1,2 +1,4 @@
 add a two file
 add a 2nd conent to  file
+add a 3nd line to  file
+add a 4nd line to  file
